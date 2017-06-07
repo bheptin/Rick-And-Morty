@@ -1,6 +1,11 @@
 .page-header {
   background-color: #4C678C;
+  text-align: center;
 }
+.col-sm-12 {
+  text-align: center;
+}
+
 .col-sm-12 {
   text-align: center;
 }

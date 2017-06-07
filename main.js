@@ -32,3 +32,13 @@
            var audio = document.getElementById("DickMove");
            audio.play();
          };
+
+       function play7(){
+            var audio = document.getElementById("OohWee");
+            audio.play();
+          };
+
+        function play8(){
+             var audio = document.getElementById("TwoBrothers");
+             audio.play();
+           };
